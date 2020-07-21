@@ -1,0 +1,11 @@
+    {
+        "sqlserver":{
+            "name": "QA",
+            "server": "219.143.244.232",
+            "user": "algodb",
+            "password": "algodb",
+            "database": "AlgoTradeReport"},
+        "transactionPath":"\\\\nas_yjs_algo\\algo_share\\Data\\Transaction\\",
+        "tickPath":"\\\\nas_yjs_algo\\algo_share\\data\\h5data\\stock\\tick\\",
+        "logPath" : "d:\\logs\\upDateClientOrder_qa.log"
+    }

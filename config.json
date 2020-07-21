@@ -1,0 +1,11 @@
+    {
+        "sqlserver":{
+            "name": "PROD",
+            "server": "172.10.10.7",
+            "user": "algodb",
+            "password": "!AlGoTeAm_",
+            "database": "AlgoTradeReport"},
+        "transactionPath":"\\\\nas_yjs_algo\\algo_share\\Data\\Transaction\\",
+        "tickPath":"f:\\data\\h5data\\stock\\tick\\",
+        "logPath" : "d:\\logs\\upDateClientOrder_prod.log"
+    }
